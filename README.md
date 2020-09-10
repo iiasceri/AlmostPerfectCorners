@@ -15,9 +15,7 @@
 
 ## How to install:
 
-<p align="center">
  1) Open a new tab with address: "chrome://extensions"
  2) In top right corner enable 'Developer mode'
  3) Then click on 'Load unpacked' and select project folder
  4) Enjoy 🤓
-</p>

@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+
+  "name": "Almost Perfect Corners",
+  "version": "16.3",
+  "description": "Why corners are not rounded, cmon...",
+
+  "content_scripts": [{
+    "css": ["styles.css"],
+    "matches": ["*://*/*"]
+  }]
+
+}

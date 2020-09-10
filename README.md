@@ -3,8 +3,6 @@
 
 <p align="center">
  <img width="663" height="311" src="before.png">
-</p>
-<p align="center">
  <img width="663" height="311" src="after.png">
+ This extension + Dark Reader = 💙
 </p>
-This extension + Dark Reader = 💙
